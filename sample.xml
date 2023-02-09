@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<root>
+  <item>
+    <title>Item 1</title>
+    <description>This is the description for item 1</description>
+    <link>http://www.item1.com</link>
+  </item>
+  <item>
+    <title>Item 2</title>
+    <description>This is the description for item 2</description>
+    <link>http://www.item2.com</link>
+  </item>
+  <item>
+    <title>Item 3</title>
+    <description>This is the description for item 3</description>
+    <link>http://www.item3.com</link>
+  </item>
+</root>
